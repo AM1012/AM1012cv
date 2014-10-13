@@ -1,0 +1,13 @@
+body {
+	margin: 50px;
+	background: #E5F7FA;
+}
+span {
+	font-weight: bold;
+	display: inline-block;
+	padding: 5px;
+}
+h4 {
+	color: #164EA2;
+	text-decoration: underline;
+}
